@@ -10,15 +10,15 @@ We've included some data for approximately 200 patients treated for Head and Nec
 
 Your task is to implement a web-based dashboard/GUI which can visualise some of this data. It's up to you what you would like to display and what kind of functionality you want to provide to a user to explore the data. You may also use the programming language of your choice and any libraries/frameworks you like. See below for a few tips in case you need some help getting started.
 
-> Important: The are many different attributes in the dataset, we do not expect your dashboard to deal with and visualise all of them. Pick out some key attributes which you think would be most interesting to display.
+> #### Important: The are many different attributes in the dataset, we do not expect your dashboard to deal with and visualise all of them. Pick out some key attributes which you think would be most interesting to display.
 
 ## Submission
 
-Since we commonly use GitHub for collaborating on open source code, ideally you will fork this repository and add your code directly in there. Best to follow up with a GitHub Pull Request back into our repo so we can see your code. This would require making your submission public, if you would prefer to keep your code private, please add it to a private GitHub repository and add @pchlap with read permissions.
+Since we commonly use GitHub for collaborating on open source code, ideally you will fork this repository and add your code directly in there. Best to follow up with a GitHub Pull Request back into our repo so we can see your code. This would require making your submission public, if you would prefer to keep your code private, please add it to a private GitHub repository and add GitHub user `pchlap` with read permissions.
 
 In addition, it would be great if you can make your dashboard really easy to run/access. Think about how you might best package your tool and include some instructions in your submission on how to run your dashboard.
 
-> Please submit by 10am on Tuesday 5th October 2021.
+> ### Please submit by 10am on Tuesday 5th October 2021.
 
 ## Tips
 
